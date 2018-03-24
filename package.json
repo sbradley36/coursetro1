@@ -1,7 +1,7 @@
 {
-  "name": "bs4",
+  "name": "coursetro1",
   "version": "1.0.0",
-  "description": "",
+  "description": "First coursetro1 tutorial",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
+    "npm": "^5.8.0",
     "popper.js": "^1.14.1"
   }
 }
